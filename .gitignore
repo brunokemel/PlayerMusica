@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+*.pyo
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Compilação e Executáveis (PyInstaller)
+build/
+dist/
+*.exe
+*.manifest
+*.spec.bak
+
+# Dados e Configurações Locais do Usuário
+config.json
+*.local
+.env
+.env.*
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos Temporários e Sistema
+test.txt
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
