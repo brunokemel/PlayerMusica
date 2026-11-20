@@ -1,6 +1,10 @@
 {
   "cli": {
-    "version": ">= 5.9.0"
+    "version": ">= 5.9.0",
+    "appVersionSource": "remote"
+  },
+  "vcs": {
+    "url": "https://github.com/brunokemel/PlayerMusica.git"
   },
   "build": {
     "development": {
