@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#121212"/>
+  <circle cx="640" cy="360" r="180" fill="#FF5722"/>
+  <path d="M530 280v160c0 13.3 10.7 24 24 24h80c13.3 0 24-10.7 24-24V280c0-13.3-10.7-24-24-24h-80c-13.3 0-24 10.7-24 24z" fill="#121212"/>
+  <path d="M570 280v160c0 13.3 10.7 24 24 24h80c13.3 0 24-10.7 24-24V280c0-13.3-10.7-24-24-24h-80c-13.3 0-24 10.7-24 24z" fill="#121212"/>
+  <text x="640" y="580" font-family="system-ui, sans-serif" font-size="32" font-weight="600" fill="#FFFFFF" text-anchor="middle">PlayMusica</text>
+  <text x="640" y="620" font-family="system-ui, sans-serif" font-size="16" fill="#B3B3B3" text-anchor="middle">Carregando biblioteca...</text>
+</svg>
